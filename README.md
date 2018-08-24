@@ -9,4 +9,25 @@ This program will get the user input location and display the output if found an
 * Calculate and display the execution time and the total number of rows in the CSV file.
 * If found a matching location, create a csv and json files for that particular location.
 
+# ----------- Demo --------------
 
+### User input requested for 'Location'.
+![](screenshots/1-user-input.png)
+
+### Display result if any matching location found.
+![](screenshots/2-result.png)
+
+### Will convert lower case input into upper and display same result.
+![](screenshots/3-low-letters.png)
+
+### Display error message if no location found.
+![](screenshots/4-no-loc.png)
+
+### If any match is being found, create CSV and Json files for that particular location.
+![](screenshots/5-gen-files.png)
+
+### Resultant CSV file.
+![](screenshots/6-csv-output.png)
+
+### Resultant Json file.
+![](screenshots/7-json-output.png)
