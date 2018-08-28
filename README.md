@@ -32,7 +32,12 @@ This program will get the user input location and display the output if found an
 ### Resultant Json file.
 ![](screenshots/7-json-output.png)
 
-# Unittest
+# ------------ Unittest -----------------
 ## my_test.py
+![](screenshots/test.png)
+
+Run command $ python my_test.py
+
+Than, enter the location defined in sample data, in this case city_name='Arroyo Grande'
 
 
